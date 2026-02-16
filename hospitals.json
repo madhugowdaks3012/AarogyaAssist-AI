@@ -1,0 +1,64 @@
+{
+  "Karnataka": {
+    "Bengaluru": [
+      {"name": "Apollo Hospital", "phone": "080-26304050"},
+      {"name": "Fortis Hospital Bannerghatta", "phone": "080-66214444"},
+      {"name": "Manipal Hospital", "phone": "080-25024444"},
+      {"name": "Columbia Asia Hospital", "phone": "080-61656200"}
+    ],
+    "Mysuru": [
+      {"name": "Columbia Asia Mysuru", "phone": "0821-3989898"},
+      {"name": "Apollo BGS Hospital", "phone": "0821-2568888"}
+    ]
+  },
+
+  "Tamil Nadu": {
+    "Chennai": [
+      {"name": "Apollo Hospitals Chennai", "phone": "044-28290200"},
+      {"name": "MIOT International", "phone": "044-42002288"},
+      {"name": "Global Hospitals", "phone": "044-44770000"}
+    ],
+    "Coimbatore": [
+      {"name": "Ganga Hospital", "phone": "0422-2485000"},
+      {"name": "KG Hospital", "phone": "0422-2212121"}
+    ]
+  },
+
+  "Maharashtra": {
+    "Mumbai": [
+      {"name": "Lilavati Hospital", "phone": "022-26751000"},
+      {"name": "Kokilaben Dhirubhai Ambani Hospital", "phone": "022-30999999"},
+      {"name": "Fortis Hospital Mulund", "phone": "022-67994444"}
+    ],
+    "Pune": [
+      {"name": "Ruby Hall Clinic", "phone": "020-66455100"},
+      {"name": "Sahyadri Hospital", "phone": "020-67213333"}
+    ]
+  },
+
+  "Telangana": {
+    "Hyderabad": [
+      {"name": "Apollo Hospitals Jubilee Hills", "phone": "040-23607777"},
+      {"name": "Yashoda Hospitals", "phone": "040-45674567"},
+      {"name": "CARE Hospitals", "phone": "040-30418888"}
+    ]
+  },
+
+  "Delhi": {
+    "New Delhi": [
+      {"name": "AIIMS Delhi", "phone": "011-26588500"},
+      {"name": "Max Super Specialty Hospital", "phone": "011-40554055"},
+      {"name": "Fortis Escorts Heart Institute", "phone": "011-47135000"}
+    ]
+  },
+
+  "Kerala": {
+    "Kochi": [
+      {"name": "Aster Medcity", "phone": "0484-6699999"},
+      {"name": "Amrita Hospital", "phone": "0484-2851234"}
+    ],
+    "Thiruvananthapuram": [
+      {"name": "KIMS Hospital", "phone": "0471-3041000"}
+    ]
+  }
+}
